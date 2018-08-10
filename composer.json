@@ -1,4 +1,5 @@
 {
     "name": "fabianobn/slick",
-    "description": "This is the atualized Slick Slider used in Wordpress"
+    "description": "This is the atualized Slick Slider used in Wordpress",
+    "version": "v1.8.*"
 }
